@@ -12,7 +12,7 @@
  
 > Transformando ideias em soluções digitais inovadoras com código limpo e eficiente.
 
-- 🚀 Desenvolvedor Full Stack com foco em soluções escaláveis
+- 🚀 Desenvolvedor Full Stack com foco em soluções via automação
 - 💡 Especialista em UI/UX Design
 - 🌐 Criador de experiências web únicas
 - 📱 Desenvolvedor de aplicações mobile
