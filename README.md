@@ -3,7 +3,9 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fadminhudev.site&up_message=online&down_message=offline&style=for-the-badge)](https://adminhudev.site)
 [![GitHub followers](https://img.shields.io/github/followers/AdminhuDev?style=for-the-badge&logo=github)](https://github.com/AdminhuDev?tab=followers)
 [![Telegram](https://img.shields.io/badge/Telegram-@Analista__Adminhu-blue?style=for-the-badge&logo=telegram)](https://t.me/Analista_Adminhu)
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AdminhuDev&color=blueviolet&style=for-the-badge"/>
+</div>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;UI/UX+Designer;+5+Anos+de+Experiência&center=true&width=380&height=45">
 </div>
@@ -61,7 +63,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdminhuDev&color=blueviolet&style=for-the-badge"/>
-</div>
