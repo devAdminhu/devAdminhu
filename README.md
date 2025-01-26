@@ -1,9 +1,15 @@
 # Olá, eu sou AdminhuDev! 👋
 
 <div align="center">
-  [![Website](https://img.shields.io/website?url=https%3A%2F%2Fadminhudev.site&up_message=online&down_message=offline&style=for-the-badge)](https://adminhudev.site)
-  [![GitHub followers](https://img.shields.io/github/followers/AdminhuDev?style=for-the-badge&logo=github)](https://github.com/AdminhuDev?tab=followers)
-  [![Telegram](https://img.shields.io/badge/Telegram-@Analista__Adminhu-blue?style=for-the-badge&logo=telegram)](https://t.me/Analista_Adminhu)
+  <a href="https://adminhudev.site">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fadminhudev.site&up_message=online&down_message=offline&style=for-the-badge" alt="Website"/>
+  </a>
+  <a href="https://github.com/AdminhuDev?tab=followers">
+    <img src="https://img.shields.io/github/followers/AdminhuDev?style=for-the-badge&logo=github" alt="GitHub followers"/>
+  </a>
+  <a href="https://t.me/Analista_Adminhu">
+    <img src="https://img.shields.io/badge/Telegram-@Analista__Adminhu-blue?style=for-the-badge&logo=telegram" alt="Telegram"/>
+  </a>
   
   <img src="https://komarev.com/ghpvc/?username=AdminhuDev&color=blueviolet&style=for-the-badge"/>
   
