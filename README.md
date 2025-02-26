@@ -24,7 +24,6 @@
   - 🚀 Desenvolvedor Full Stack com foco em soluções via automação
   - 💡 Especialista em UI/UX Design
   - 🌐 Criador de experiências web únicas
-  - 📱 Desenvolvedor de aplicações mobile
   - ☁️ Especialista em Cloud Computing
 </div>
 
