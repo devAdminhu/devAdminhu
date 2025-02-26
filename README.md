@@ -1,4 +1,4 @@
-# Olá, eu sou AdminhuDev! 👋
+# Olá, eu sou Adminhu! 👋
 
 <div align="center">
   <a href="https://adminhudev.site">
@@ -7,8 +7,8 @@
   <a href="https://github.com/AdminhuDev?tab=followers">
     <img src="https://img.shields.io/github/followers/AdminhuDev?style=for-the-badge&logo=github" alt="GitHub followers"/>
   </a>
-  <a href="https://t.me/Analista_Adminhu">
-    <img src="https://img.shields.io/badge/Telegram-@Analista__Adminhu-blue?style=for-the-badge&logo=telegram" alt="Telegram"/>
+  <a href="https://t.me/devAdminhu">
+    <img src="https://img.shields.io/badge/Telegram-@devAdminhu-blue?style=for-the-badge&logo=telegram" alt="Telegram"/>
   </a>
   
   <img src="https://komarev.com/ghpvc/?username=AdminhuDev&color=blueviolet&style=for-the-badge"/>
@@ -72,7 +72,7 @@
   
   [![Site](https://img.shields.io/badge/🌐_Site_Oficial-adminhudev.site-00ff88?style=for-the-badge)](https://adminhudev.site)
   [![GitHub](https://img.shields.io/badge/GitHub-AdminhuDev-181717?style=for-the-badge&logo=github)](https://github.com/AdminhuDev)
-  [![Telegram](https://img.shields.io/badge/Telegram-@Analista__Adminhu-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/Analista_Adminhu)
+  [![Telegram](https://img.shields.io/badge/Telegram-@devAdminhu-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/devAdminhu)
 </div>
 
 ---
