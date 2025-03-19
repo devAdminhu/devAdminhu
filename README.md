@@ -1,17 +1,17 @@
 # Olá, eu sou Adminhu! 👋
 
 <div align="center">
-  <a href="https://adminhudev.site">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Fadminhudev.site&up_message=online&down_message=offline&style=for-the-badge" alt="Website"/>
+  <a href="https://devAdminhu.site">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2FdevAdminhu.site&up_message=online&down_message=offline&style=for-the-badge" alt="Website"/>
   </a>
-  <a href="https://github.com/AdminhuDev?tab=followers">
-    <img src="https://img.shields.io/github/followers/AdminhuDev?style=for-the-badge&logo=github" alt="GitHub followers"/>
+  <a href="https://github.com/devAdminhu?tab=followers">
+    <img src="https://img.shields.io/github/followers/devAdminhu?style=for-the-badge&logo=github" alt="GitHub followers"/>
   </a>
   <a href="https://t.me/devAdminhu">
     <img src="https://img.shields.io/badge/Telegram-@devAdminhu-blue?style=for-the-badge&logo=telegram" alt="Telegram"/>
   </a>
   
-  <img src="https://komarev.com/ghpvc/?username=AdminhuDev&color=blueviolet&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=devAdminhu&color=blueviolet&style=for-the-badge"/>
   
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;UI/UX+Designer;+5+Anos+de+Experiência&center=true&width=380&height=45">
 </div>
@@ -47,30 +47,30 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdminhuDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdminhuDev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devAdminhu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAdminhu&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## 🌟 Projetos em Destaque
 
 <div align="center">
   
-  [![Web Portfolio](https://img.shields.io/badge/🌐_Portfolio-adminhudev.site-00ff88?style=for-the-badge)](https://adminhudev.site)
-  [![GitHub Repository](https://img.shields.io/badge/📁_Código_Fonte-web--site-181717?style=for-the-badge&logo=github)](https://github.com/AdminhuDev/web-site)
+  [![Web Portfolio](https://img.shields.io/badge/🌐_Portfolio-devAdminhu.site-00ff88?style=for-the-badge)](https://devAdminhu.site)
+  [![GitHub Repository](https://img.shields.io/badge/📁_Código_Fonte-web--site-181717?style=for-the-badge&logo=github)](https://github.com/devAdminhu/web-site)
 </div>
 
 ## 📈 Contribuições
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdminhuDev&theme=dark" alt="AdminhuDev's contributions"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAdminhu&theme=dark" alt="devAdminhu's contributions"/>
 </div>
 
 ## 🤝 Vamos Conectar!
 
 <div align="center">
   
-  [![Site](https://img.shields.io/badge/🌐_Site_Oficial-adminhudev.site-00ff88?style=for-the-badge)](https://adminhudev.site)
-  [![GitHub](https://img.shields.io/badge/GitHub-AdminhuDev-181717?style=for-the-badge&logo=github)](https://github.com/AdminhuDev)
+  [![Site](https://img.shields.io/badge/🌐_Site_Oficial-devAdminhu.site-00ff88?style=for-the-badge)](https://devAdminhu.site)
+  [![GitHub](https://img.shields.io/badge/GitHub-devAdminhu-181717?style=for-the-badge&logo=github)](https://github.com/devAdminhu)
   [![Telegram](https://img.shields.io/badge/Telegram-@devAdminhu-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/devAdminhu)
 </div>
 
