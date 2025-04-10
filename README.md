@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://adminhudev.site">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2FdevAdminhu.site&up_message=online&down_message=offline&style=for-the-badge" alt="Website"/>
+    <img src="https://img.shields.io/website?url=https%3A%2F%2FAdminhudev.site&up_message=online&down_message=offline&style=for-the-badge" alt="Website"/>
   </a>
   <a href="https://github.com/devAdminhu?tab=followers">
     <img src="https://img.shields.io/github/followers/devAdminhu?style=for-the-badge&logo=github" alt="GitHub followers"/>
@@ -55,7 +55,7 @@
 
 <div align="center">
   
-  [![Web Portfolio](https://img.shields.io/badge/🌐_Portfolio-devAdminhu.site-00ff88?style=for-the-badge)](https://devAdminhu.site)
+  [![Web Portfolio](https://img.shields.io/badge/🌐_Portfolio-Adminhudev.site-00ff88?style=for-the-badge)](https://devAdminhu.site)
   [![GitHub Repository](https://img.shields.io/badge/📁_Código_Fonte-web--site-181717?style=for-the-badge&logo=github)](https://github.com/devAdminhu/web-site)
 </div>
 
