@@ -65,13 +65,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devAdminhu&theme=dark" alt="devAdminhu's contributions"/>
 </div>
 
-## 🤝 Vamos Conectar!
-
-<div align="center">
-  
-  [![Site](https://img.shields.io/badge/🌐_Site_Oficial-devAdminhu.site-00ff88?style=for-the-badge)](https://devAdminhu.site)
-  [![GitHub](https://img.shields.io/badge/GitHub-devAdminhu-181717?style=for-the-badge&logo=github)](https://github.com/devAdminhu)
-  [![Telegram](https://img.shields.io/badge/Telegram-@devAdminhu-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/devAdminhu)
-</div>
-
 ---
