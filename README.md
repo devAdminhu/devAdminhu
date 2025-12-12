@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://dev.adminhu.site">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Fpowerdivulgador.com&up_message=online&down_message=offline&style=for-the-badge" alt="dev Adminhu"/>
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fdev.adminhu.site&up_message=online&down_message=offline&style=for-the-badge" alt="dev Adminhu"/>
   </a>
   <a href="https://github.com/devAdminhu?tab=followers">
     <img src="https://img.shields.io/github/followers/devAdminhu?style=for-the-badge&logo=github" alt="GitHub followers"/>
