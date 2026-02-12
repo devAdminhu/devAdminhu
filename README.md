@@ -13,7 +13,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=devAdminhu&color=blueviolet&style=for-the-badge"/>
   
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;UI/UX+Designer;+5+Anos+de+Experiência&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;UI/UX+Designer;+6+Anos+de+Experiência&center=true&width=380&height=45">
 </div>
 
 ## 💫 Sobre Mim
