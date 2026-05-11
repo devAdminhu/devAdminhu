@@ -30,7 +30,7 @@
 Sou desenvolvedor Full Stack com experiência em criação de sistemas web, automação e bots de trading.  
 Trabalho com soluções voltadas para análise, execução e otimização de processos, sempre buscando código limpo, escalável e eficiente.
 
-<div align="center">
+<div align="left">
 
 - 🚀 Full Stack Developer
 - 🤖 Criação de bots de trading e automação
